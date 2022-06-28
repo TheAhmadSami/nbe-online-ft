@@ -29,7 +29,7 @@ class TopBar extends StatelessWidget {
         ClipRRect(
           borderRadius: BorderRadius.circular(10.0),
           child: Image.asset(
-            'assets/media/picture.jpg',
+            'lib/assets/media/picture.jpg',
             height: 50,
           ),
         ),

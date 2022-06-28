@@ -52,5 +52,4 @@ flutter:
 
   assets:
     - lib/assets/media/
-    - assets/media/
-    - assets/media/avatars/
+    - lib/assets/media/avatars/

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.nbe_online_ft">
+    package="com.nbe_online_ft">
    <application
-        android:label="nbe_online_ft"
+        android:label="nbe_flutter"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

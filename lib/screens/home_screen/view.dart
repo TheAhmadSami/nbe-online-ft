@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:nbe_online_ft/services/app_theme.dart';
 import 'package:nbe_online_ft/widgets/apps/view.dart';
 import 'package:nbe_online_ft/widgets/balance/view.dart';
+import 'package:nbe_online_ft/widgets/navigator/view.dart';
 import 'package:nbe_online_ft/widgets/send_money/view.dart';
 import 'package:nbe_online_ft/widgets/top_bar/view.dart';
 import 'package:provider/provider.dart';
@@ -40,6 +41,8 @@ class HomeScreen extends StatelessWidget {
             Apps(),
             SizedBox(height: 15),
             SendMoney(),
+            Spacer(),
+            NavigatorPage()
           ],
         ),
       ),

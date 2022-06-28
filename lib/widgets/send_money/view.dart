@@ -15,12 +15,12 @@ class SendMoney extends StatefulWidget {
 class _SendMoneyState extends State<SendMoney> {
 
   List users = [
-    {"name": 'Ahmed', "image":"assets/media/picture.jpg"},
-    {"name": 'Casey', "image":"assets/media/avatars/1.png"},
-    {"name": 'Khaled', "image":"assets/media/avatars/11.png"},
-    {"name": 'Maya', "image":"assets/media/avatars/3.png"},
-    {"name": 'Mostafa', "image":"assets/media/avatars/14.png"},
-    {"name": 'Cris', "image":"assets/media/avatars/15.png"},
+    {"name": 'Ahmed', "image":"lib/assets/media/picture.jpg"},
+    {"name": 'Casey', "image":"lib/assets/media/avatars/1.png"},
+    {"name": 'Khaled', "image":"lib/assets/media/avatars/11.png"},
+    {"name": 'Maya', "image":"lib/assets/media/avatars/3.png"},
+    {"name": 'Mostafa', "image":"lib/assets/media/avatars/14.png"},
+    {"name": 'Cris', "image":"lib/assets/media/avatars/15.png"},
   ];
 
 
